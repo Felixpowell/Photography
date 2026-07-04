@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Photography</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>FP</h1>
+
+        <details class="menu">
+            <summary>Photos</summary>
+            <nav>
+                <a href="./index.html">Main</a>
+                <a href="./ProjectOne.html">Colchester River</a>
+                <a href="./ProjectTwo.html">Geneva</a>
+                <a href="./ProjectThree.html">Desperate</a>
+            </nav>
+        </details>
+    </header>
+
+    <main class="about-page">
+
+        <section class="about-text">
+            <h2>Barbican</h2>
+
+            <p>
+                My brother Theo took me to the barbican for the first time. I assume he knew I'd love it, whilst working in London I sheltered there on lunch breaks and visited regularly whenever I was in london.
+                Not sure if it was a lack in exposure to large scale arcitecture or general interest but for awhile it had a tight grip on me.
+            </p>
+            
+        </section>
+
+    </main>
+<p>
+
+
+
+</p>
+    <section class="photo-feed">
+
+            <article class="photo-item">
+                <img src="barbican1/DSCF4364.JPG"Landscape">
+            </article>
+
+            <article class="photo-item">
+                <img src="barbican1/DSCF4369.JPG"Landscape">
+            </article>
+          
+            <article class="photo-item">
+                <img src="barbican1/DSCF4376.JPG"Landscape">
+            </article>
+
+            <article class="photo-item">
+                <img src="barbican1/DSCF4389.JPG"Landscape">
+            </article>
+
+            <article class="photo-item">
+                <img src="barbican1/DSCF4390.JPG"Landscape">
+            </article>
+          
+            <article class="photo-item">
+                <img src="barbican1/DSCF4405.JPG"Landscape">
+            </article>
+
+            <article class="photo-item">
+                <img src="barbican1/DSCF4414.JPG"Landscape">
+            </article>
+          
+            <article class="photo-item">
+                <img src="barbican1/DSCF4600.JPG"Landscape">
+            </article>
+
+            <article class="photo-item">
+                <img src="barbican1/DSCF4605.JPG"Landscape">
+            </article>
+
+            <article class="photo-item">
+                <img src="barbican1/DSCF4641.JPG"Landscape">
+            </article>
+          
+            <article class="photo-item">
+                <img src="barbican1/DSCF4659.JPG"Landscape">
+            </article>
+
+            <article class="photo-item">
+                <img src="barbican1/DSCF4668.JPG"Landscape">
+            </article>
+          
+            <article class="photo-item">
+                <img src="barbican1/DSCF4679.JPG"Landscape">
+            </article>
+
+        </section>
+
+</body>
+</html>
